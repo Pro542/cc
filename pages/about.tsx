@@ -128,7 +128,7 @@ export default function Page({ emojiToSvg }: PostBaseProps) {
             <A href="https://github.com/chibicode/cc">GitHub</A>.
           </Li>
           <Li>
-            License for the posts: ©2020 Shusaku Uesugi. All Rights Reserved.
+            License for the posts: ©2021 Shusaku Uesugi. All Rights Reserved.
           </Li>
         </Ul>
       </section>
